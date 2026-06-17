@@ -14,17 +14,17 @@
 2. Acceptance of [Previous Meeting Minutes](https://github.com/Safety-Critical-Rust-Consortium/safety-critical-rust-consortium/blob/main/subcommittee/coding-guidelines/meetings/2026-06-03/minutes.md)  
 3. Introduction of new members  
 4. The SEI CERT Coding Standard for Fortran (David)  
-- Read more here: [https://www.sei.cmu.edu/blog/the-sei-cert-coding-standard-for-fortran/](https://www.sei.cmu.edu/blog/the-sei-cert-coding-standard-for-fortran/)  
+   - Read more here: [https://www.sei.cmu.edu/blog/the-sei-cert-coding-standard-for-fortran/](https://www.sei.cmu.edu/blog/the-sei-cert-coding-standard-for-fortran/)  
 5. Coverage of MISRA C and CERT C in 2026 (Félix / Markus updates)  
-- MISRA C one from Markus has [merged](https://github.com/rustfoundation/safety-critical-rust-coding-guidelines/pull/432)  
-- CERT C one from Oreste has [also merged](https://github.com/Safety-Critical-Rust-Consortium/safety-critical-rust-coding-guidelines/pull/582)  
-  - Live now at: [https://coding-guidelines.arewesafetycriticalyet.org/appendices/standards-matrices/index.html](https://coding-guidelines.arewesafetycriticalyet.org/appendices/standards-matrices/index.html)  
-  - Félix opened an [issue](https://github.com/Safety-Critical-Rust-Consortium/safety-critical-rust-coding-guidelines/issues/585) to track usability improvements in the appendices that's up for grabs  
-  - Pete will now mine these appendices for creating issues for contributors  
+   - MISRA C one from Markus has [merged](https://github.com/rustfoundation/safety-critical-rust-coding-guidelines/pull/432)  
+   - CERT C one from Oreste has [also merged](https://github.com/Safety-Critical-Rust-Consortium/safety-critical-rust-coding-guidelines/pull/582)  
+   - Live now at: [https://coding-guidelines.arewesafetycriticalyet.org/appendices/standards-matrices/index.html](https://coding-guidelines.arewesafetycriticalyet.org/appendices/standards-matrices/index.html)  
+   - Félix opened an [issue](https://github.com/Safety-Critical-Rust-Consortium/safety-critical-rust-coding-guidelines/issues/585) to track usability improvements in the appendices that's up for grabs  
+   - Pete will now mine these appendices for creating issues for contributors  
 6. Interest in the MISRA C++ mapping (mira / Pete)  
-- Updates on new things in the MISRA C++ \=\> Rust mapping  
-- In talks with MISRA folks still; but in practice the procedure outlined seemed reasonable to them  
-- Please register interest on [this Zulip thread](https://rust-lang.zulipchat.com/#narrow/channel/579369-safety-critical-consortium.2Fcoding-guidelines/topic/MISRA.20C.2B.2B.20Mapping.20Interest/with/584764785)  
+   - Updates on new things in the MISRA C++ \=\> Rust mapping  
+   - In talks with MISRA folks still; but in practice the procedure outlined seemed reasonable to them  
+   - Please register interest on [this Zulip thread](https://rust-lang.zulipchat.com/#narrow/channel/579369-safety-critical-consortium.2Fcoding-guidelines/topic/MISRA.20C.2B.2B.20Mapping.20Interest/with/584764785)  
 7. Round table
 
 ## **Check-in area**
